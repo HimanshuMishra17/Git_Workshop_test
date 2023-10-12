@@ -1,0 +1,8 @@
+1. mk dir command
+2.ls command
+3. git init
+4. touch command(Opens a new file if already not present)
+5. touch command
+6. Git and github are two different aspects of the same software or protocol.
+ Git is the paltform to store Any project or changes made to any file or folder ,whereas, 
+github is the online platform where thouasnds of users upload their personal projects and software to be available to the other users on the platform
